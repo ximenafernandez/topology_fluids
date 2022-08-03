@@ -9,7 +9,7 @@ We compute how the topology of the delay embedding changes depending on the init
 
 ### References
 
-[1] G. D. Charó, G. Artana, and D. Sciamarella. Topology of dynamical reconstructions from Lagrangian data. Phys. D, 405:132371, 12, 2020.
+[1] G. D. Charó, G. Artana, and D. Sciamarella. _Topology of dynamical reconstructions from Lagrangian data._ Physica D, 405:132371, 12, 2020.
 
-[2] S.C. Shadden, F. Lekien, J.E. Marsden, Definition and properties of Lagrangian coherent structures from finite-time Lyapunov exponents in two-dimensional aperiodic flows, Physica D 212 (3) (2005) 271–304.
+[2] S. C. Shadden, F. Lekien, J. E. Marsden. _Definition and properties of Lagrangian coherent structures from finite-time Lyapunov exponents in two-dimensional aperiodic flows._ Physica D 212 (3) (2005) 271–304.
 
