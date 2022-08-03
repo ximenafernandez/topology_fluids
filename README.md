@@ -4,6 +4,7 @@ In this repository, we study the behaviour of dynamical systems coming from flui
 
 We compute how the topology of the delay embedding changes depending on the initial condition [1] for the following systems:
 * Driven Double Gyre [2]
+<img src="figures/animation_double_gyre.gif" width="600" height="auto" class="center"/>
 
 
 ### References
