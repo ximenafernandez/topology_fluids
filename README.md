@@ -1,4 +1,4 @@
-# Topology of fluid flows
+# Topology of fluids
 
 In this repository, we study the behaviour of dynamical systems coming from fluid mechanics.
 
